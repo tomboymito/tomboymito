@@ -8,6 +8,10 @@
   Building things with Go, Python, C++ and modern web technologies.
 </p>
 
+[GitHub](https://github.com/tomboymito) ·
+[Telegram](https://t.me/maksimibtl) ·
+[VK](https://vk.com/objetoderidiculo)
+
 ---
 
 ### About me
